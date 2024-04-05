@@ -1,0 +1,10 @@
+.back-angle {
+  width: 20px;
+  height: 20px;
+  background-color: #ec5200; /* Your primary color */
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: rotate(45deg);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 0% 100%);
+}
