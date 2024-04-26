@@ -78,7 +78,7 @@ Clone this repository to your desired folder:<br>
 ```sh
   cd my-prefered-folder
 
-  git clone https://github.com/faisalakb/Capstone-Front-End
+  git clone https://github.com/m00h0/book-hotel-frontend
 
 ### Install
 
