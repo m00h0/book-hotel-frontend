@@ -116,7 +116,7 @@ To run the project, execute the following command:
 
 :bust_in_silhouette: **Ahmad**
 
-- GitHub: [@newtonah0](https://github.com/newtonah0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
