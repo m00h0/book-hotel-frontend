@@ -133,7 +133,7 @@ To run the project, execute the following command:
 ## :handshake: Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/faisalakb/Capstone-Front-End/issues).
+Feel free to check the [issues page](https://github.com/m00h0/book-hotel-frontend/issues).
 
 <!-- Feel free to check the [issues page](../../issues/). -->
 
