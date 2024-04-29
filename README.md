@@ -141,7 +141,7 @@ Feel free to check the [issues page](https://github.com/m00h0/book-hotel-fronten
 
 ## :star: Show your support <a name="support"></a>
 
-If you like this project give it a star.
+If you like this project give it a star! .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
