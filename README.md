@@ -78,8 +78,9 @@ Clone this repository to your desired folder:<br>
   cd my-prefered-folder
 
   git clone https://github.com/m00h0/book-hotel-frontend
+```
 
-### Install  <a name="install"></a>
+### Install  
 
 Install this project with:<br>
 
