@@ -68,7 +68,7 @@ You need the following tools be installed in your computer:
 - [Rails](https://guides.rubyonrails.org/)
 - [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/)
 - [Ruby](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md)
-- IDE
+- IDE like VSC.
 
 ### Setup
 
