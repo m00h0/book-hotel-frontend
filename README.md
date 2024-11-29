@@ -47,10 +47,10 @@ Front End App is an Rent House app that allows user to create new house; the use
 
 ### Key Features
 
-- Rent a House
-- Associate a house with a category
-- Create new house
-- View favourite house
+- Rent a House.
+- Associate a house with a category.
+- Create new house.
+- View favourite house.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
